@@ -1,0 +1,12 @@
+D:\ISsoft .Net\ДЗ №1\tasks\task1\bin\Debug\netcoreapp3.1\task1.exe
+D:\ISsoft .Net\ДЗ №1\tasks\task1\bin\Debug\netcoreapp3.1\task1.deps.json
+D:\ISsoft .Net\ДЗ №1\tasks\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.json
+D:\ISsoft .Net\ДЗ №1\tasks\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.dev.json
+D:\ISsoft .Net\ДЗ №1\tasks\task1\bin\Debug\netcoreapp3.1\task1.dll
+D:\ISsoft .Net\ДЗ №1\tasks\task1\bin\Debug\netcoreapp3.1\task1.pdb
+D:\ISsoft .Net\ДЗ №1\tasks\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfoInputs.cache
+D:\ISsoft .Net\ДЗ №1\tasks\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfo.cs
+D:\ISsoft .Net\ДЗ №1\tasks\task1\obj\Debug\netcoreapp3.1\task1.csproj.CoreCompileInputs.cache
+D:\ISsoft .Net\ДЗ №1\tasks\task1\obj\Debug\netcoreapp3.1\task1.dll
+D:\ISsoft .Net\ДЗ №1\tasks\task1\obj\Debug\netcoreapp3.1\task1.pdb
+D:\ISsoft .Net\ДЗ №1\tasks\task1\obj\Debug\netcoreapp3.1\task1.genruntimeconfig.cache

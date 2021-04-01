@@ -1,0 +1,16 @@
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\bin\Debug\net5.0\task_1.exe
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\bin\Debug\net5.0\task_1.deps.json
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\bin\Debug\net5.0\task_1.runtimeconfig.json
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\bin\Debug\net5.0\task_1.runtimeconfig.dev.json
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\bin\Debug\net5.0\task_1.dll
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\bin\Debug\net5.0\ref\task_1.dll
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\bin\Debug\net5.0\task_1.pdb
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\obj\Debug\net5.0\task_1.csprojAssemblyReference.cache
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\obj\Debug\net5.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\obj\Debug\net5.0\task_1.AssemblyInfoInputs.cache
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\obj\Debug\net5.0\task_1.AssemblyInfo.cs
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\obj\Debug\net5.0\task_1.csproj.CoreCompileInputs.cache
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\obj\Debug\net5.0\task_1.dll
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\obj\Debug\net5.0\ref\task_1.dll
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\obj\Debug\net5.0\task_1.pdb
+F:\ISsoft .Net\ДЗ №5\tasks_5\task_1\obj\Debug\net5.0\task_1.genruntimeconfig.cache
